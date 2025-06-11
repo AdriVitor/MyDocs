@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: clone-repository
-    - uses: actions/checkout@v4
+      uses: actions/checkout@v4
     
     - name: Install SDK .NET
       uses: actions/setup-dotnet@v4
