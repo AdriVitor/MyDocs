@@ -15,7 +15,7 @@
         {
             To = to;
             Subject = subject;
-            Body = body;
+            Body = body; 
         }
     }
 }
