@@ -485,3 +485,6 @@ $RECYCLE.BIN/
 
 # txt
 *.txt
+
+# json
+appsettings.json
